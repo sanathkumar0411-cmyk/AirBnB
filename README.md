@@ -6,3 +6,7 @@ login page
 
 welcome page
 ![image alt](https://github.com/sanathkumar0411-cmyk/AirBnB/blob/5e203aa44a36c6974f09ba2265d21608ab9c0dd7/WhatsApp%20Image%202026-08-23%20at%204.33.30%20PM.jpeg)
+
+Available locations
+![image alt](https://github.com/sanathkumar0411-cmyk/AirBnB/blob/0c8fdffd3b493af1325db2fd64fc074b66ede3c1/WhatsApp%20Image%202026-08-23%20at%204.33.32%20PM.jpeg)
+
