@@ -10,3 +10,5 @@ welcome page
 Available locations
 ![image alt](https://github.com/sanathkumar0411-cmyk/AirBnB/blob/0c8fdffd3b493af1325db2fd64fc074b66ede3c1/WhatsApp%20Image%202026-08-23%20at%204.33.32%20PM.jpeg)
 
+Details
+![image alt](https://github.com/sanathkumar0411-cmyk/AirBnB/blob/15862ccf6de9427ad58481a15a7cc580b28fa481/WhatsApp%20Image%202026-08-23%20at%204.33.33%20PM.jpeg)
